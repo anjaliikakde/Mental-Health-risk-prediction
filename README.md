@@ -1,0 +1,2 @@
+# Mental-Health-Prediction-in-Tech-Employees-Using-Logistic-Regression
+This project uses Logistic Regression to predict mental health issues in tech employees. It is based on real survey data with features like work environment and support. The code includes data cleaning, analysis, model training, and evaluation. The goal is to help raise awareness about mental health in the tech industry.
