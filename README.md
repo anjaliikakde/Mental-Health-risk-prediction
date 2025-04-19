@@ -66,7 +66,7 @@ In this project, Logistic Regression helps us classify if a person is **likely**
 
 ## Results
 
-- The Logistic Regression model gave an accuracy of around **84%** (replace with your result).
+- The Logistic Regression model gave an accuracy of around **84%**.
 - Important features influencing predictions included **family history**, **workplace support**, and **previous diagnosis**.
 
 ## Conclusion
